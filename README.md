@@ -13,3 +13,10 @@ Try running the following commands:
 - Join the [dbt community](http://community.getbdt.com/) to learn from other analytics engineers
 - Find [dbt events](https://events.getdbt.com) near you
 - Check out [the blog](https://blog.getdbt.com/) for the latest news on dbt's development and best practices
+
+
+## Canopy-Undrr-old - Archive
+
+This repo includes the data transformation code for the Canopy-Undrr-old project. 
+
+As of June 2024 the project is not in active development
